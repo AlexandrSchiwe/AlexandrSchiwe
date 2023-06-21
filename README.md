@@ -37,7 +37,7 @@ As I delved deeper into coding, I realized the importance of structured learning
 
 Combining the knowledge gained from YouTube tutorials and the intensive training of the bootcamp, I now possess a comprehensive skill set and a deep appreciation for clean, efficient code. I continue to embrace lifelong learning, staying up-to-date with emerging technologies and industry trends.
 
-My journey from self-taught beginnings to attending a coding bootcamp has fueled my ambition to contribute to impactful projects and be part of a dynamic development team. I am excited to leverage my skills and passion for clean code to create engaging user experiences and drive innovation in the world of frontend development.
+My journey from self-taught beginnings to attending a coding bootcamp has fueled my ambition to contribute to impactful projects and be part of a dynamic development team. I am excited to leverage my skills and passion to create engaging user experiences.
 
 <!--
 **AlexandrSchiwe/AlexandrSchiwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
