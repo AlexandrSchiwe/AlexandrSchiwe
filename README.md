@@ -17,6 +17,10 @@ Aspiring frontend developer dedicated to the craft of clean code and pixel-perfe
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
+### 📊 Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=AlexandrSchiwe&show_icons=true&theme=gruvbox)
+
 <!--
 **AlexandrSchiwe/AlexandrSchiwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
