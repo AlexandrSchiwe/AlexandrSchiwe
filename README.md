@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# 💻 Alex Schiwe
+
+**`Junior frontend developer`**
+
+Aspiring frontend developer dedicated to the craft of clean code and pixel-perfect designs. Committed to continuous learning and growth, I strive to create intuitive user experiences through meticulous attention to detail. Passionate about transforming creative ideas into functional, visually appealing web applications.
+
+### 🧰 Languages and Tools
+
 <!--
 **AlexandrSchiwe/AlexandrSchiwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
