@@ -19,11 +19,11 @@ Aspiring frontend developer dedicated to the craft of clean code and pixel-perfe
 
 #
 
-###
-
 ### 📊 Stats
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=AlexandrSchiwe&show_icons=true&theme=gruvbox)
+
+#
 
 <!--
 **AlexandrSchiwe/AlexandrSchiwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
