@@ -39,6 +39,7 @@ Combining the knowledge gained from YouTube tutorials and the intensive training
 
 My journey from self-taught beginnings to attending a coding bootcamp has fueled my ambition to contribute to impactful projects and be part of a dynamic development team. I am excited to leverage my skills and passion to create engaging user experiences.
 
+[website]: http://alex-schiwe.de
 <!--
 **AlexandrSchiwe/AlexandrSchiwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
