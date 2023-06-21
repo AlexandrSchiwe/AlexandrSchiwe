@@ -4,7 +4,7 @@
 
 **`Junior frontend developer`**
 
-Aspiring frontend developer dedicated to the craft of clean code and pixel-perfect designs. Committed to continuous learning and growth, I strive to create intuitive user experiences through meticulous attention to detail. Passionate about transforming creative ideas into functional, visually appealing web applications.
+Aspiring frontend developer dedicated to the craft of clean code and pixel-perfect designs. Committed to continuous learning and growth, I strive to create intuitive user experiences through meticulous attention to detail. Passionate about transforming creative ideas into functional, visually appealing web applications. Right now im focusing on improving my React skills and mastering the MERN stack.
 
 ### 🧰 Languages and Tools
 
