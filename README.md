@@ -4,7 +4,7 @@
 
 **`Junior frontend developer`**
 
-Aspiring frontend developer dedicated to the craft of clean code and pixel-perfect designs. Committed to continuous learning and growth, I strive to create intuitive user experiences through meticulous attention to detail. Passionate about transforming creative ideas into functional, visually appealing web applications. Right now im focusing on improving my React skills and mastering the MERN stack.
+Aspiring frontend developer dedicated to the craft of clean code and pixel-perfect designs. Committed to continuous learning and growth, I strive to create intuitive user experiences through attention to detail. Passionate about transforming creative ideas into functional, visually appealing web applications. Right now im focusing on improving my React skills and mastering the MERN stack.
 
 ---
 
@@ -18,6 +18,8 @@ Aspiring frontend developer dedicated to the craft of clean code and pixel-perfe
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 
 #
 
