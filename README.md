@@ -11,7 +11,7 @@ Aspiring frontend developer dedicated to the craft of clean code and pixel-perfe
 ### 🧰 Languages and Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,androidstudio,apple,arduino,express,figma,java,linux,mongodb,nodejs,raspberrypi,sass,sqlite,vscode,windows,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,androidstudio,apple,arduino,express,figma,java,linux,mongodb,nodejs,raspberrypi,sass,sqlite,vscode,windows,npm)](https://skillicons.dev)
 
 #
 
