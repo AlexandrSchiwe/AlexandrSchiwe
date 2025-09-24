@@ -4,8 +4,6 @@
 
 **`Junior frontend developer`**
 
-Aspiring frontend developer dedicated to the craft of clean code and pixel-perfect designs. Committed to continuous learning and growth, I strive to create intuitive user experiences through attention to detail. Passionate about transforming creative ideas into functional, visually appealing web applications. Right now im focusing on improving my React skills and mastering the MERN stack.
-
 ---
 
 ### 🧰 Languages and Tools
@@ -30,12 +28,6 @@ Aspiring frontend developer dedicated to the craft of clean code and pixel-perfe
 <details>
  <summary><h3>🏃🏻 My coding Journey</h3></summary>
 My coding journey began with a curious mind and a desire to learn. I took my first steps into the world of programming through YouTube tutorials, devouring videos on HTML, CSS, and JavaScript. These online resources provided me with a solid foundation and sparked my passion for frontend development.
-
-As I delved deeper into coding, I realized the importance of structured learning and mentorship. Eager to accelerate my growth, I made the decision to enroll in a rigorous coding bootcamp. The bootcamp experience was transformative, immersing me in a collaborative environment and exposing me to industry best practices. From problem-solving challenges to building real-world projects, it pushed me to expand my skills and reinforced my dedication to this craft.
-
-Combining the knowledge gained from YouTube tutorials and the intensive training of the bootcamp, I now possess a comprehensive skill set and a deep appreciation for clean, efficient code. I continue to embrace lifelong learning, staying up-to-date with emerging technologies and industry trends.
-
-My journey from self-taught beginnings to attending a coding bootcamp has fueled my ambition to contribute to impactful projects and be part of a dynamic development team. I am excited to leverage my skills and passion to create engaging user experiences.
 
 [website]: http://alex-schiwe.de
 <!--
